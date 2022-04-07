@@ -1,9 +1,9 @@
 # ID structure guidance
 
-## Full list of ID structures for different categories that currently exist in the OEFDB can be found in the table here:
+## Full list of ID structures for different categories and sector that currently exist in the OEFDB can be found in the table here:
 
 
-[link or markdown table?]
+[Structure table](https://github.com/climatiq/Open-Emission-Factors-DB/blob/main/Sector-Category-ID_structure.csv)
 
 
 ## Glossary of terms, initialisms, and acronyms used in the OEFDB ID field
